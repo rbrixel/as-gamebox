@@ -8,6 +8,15 @@ Gamebox for Airsoft for small fields. No Keypad needed - only two buttons. Sound
 * DFPlayer mini
 * LCD 16*2
 * 2x big buttons - red and blue
+* Own carrier board for hardware
+* Power supply from LM7805S
+* ...
+
+## Features
+* Runs with a 7.4V (2S) Li-Po battery
+* battery monitoring
+* mp3-Audio playback from microSD-Card
+* Hackable carrier-board (exposed free ports)
 * ...
 
 ## Game modes
