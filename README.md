@@ -4,8 +4,9 @@
 Gamebox for Airsoft for small fields. No Keypad needed - only two buttons. Sound playback instead of buzzer/piezo.
 
 ## Hardware
-* Arduino Nano
+* Arduino Nano/ESP8266/ESP32
 * DFPlayer mini
+* Amp Board
 * LCD 16*2
 * 2x big buttons - red and blue
 * Own carrier board for hardware
